@@ -1,7 +1,7 @@
 # CMPM-121-KZSC-LiDar-Unity
 Creating a simple scene in Unity
 
->>>>>PROJECT CAN BE FOUND WITHIN THE "MASTER" BRANCH!>>>>>
+|  |  |  |  | PROJECT CAN BE FOUND WITHIN THE "MASTER" BRANCH! |  |  |  |  |
 
 CMPM 121 Project 1:
 Kai Turner
