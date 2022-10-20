@@ -18,7 +18,11 @@ Kai Turner
 Assets:
 
 LiDar scans: Created with the “PolyCam” app: https://poly.cam/
+
 Voxel Animals pulled from https://assetstore.unity.com/packages/3d/characters/animals/5-animated-voxel-animals-145754
+
 Skybox pulled from Google Maps Street View
+
 Patch material assets created by me taking pictures of the carpet and ceiling of KZSC, and then matching them within the scene.
+
 Camera Orbiting script (Thanks!): https://gist.github.com/3dln/c16d000b174f7ccf6df9a1cb0cef7f80
